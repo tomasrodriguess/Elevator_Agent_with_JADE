@@ -3,6 +3,8 @@ Implementation of an elevator with the framework JADE.
 
 To run the project you need to have jade in your directory and setuped in your project.
 
+If you already have the jade don´t need to download it.
+Find the jade.jar in directory -> jade\JADE-bin-4.5.0\jade\lib\jade.jar
 To setup jade you must define jade.jar as a library in your project.
 
 You can run all the project by running the Simulator.java
